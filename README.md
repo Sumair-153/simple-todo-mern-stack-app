@@ -3,7 +3,14 @@
 
 # A MERN stack app(Todo app) with React.js + node.js + express.js + mongodb with REST API
 
+<<<<<<< HEAD
    # cha hal ah jni taha baby
+=======
+# kia hal hai jni
+
+
+  
+>>>>>>> feature-update
 
 
 ###  Front-End - React.js
@@ -101,4 +108,8 @@ Please give me a **star**⭐ to this repo, I'll be happy😊.
 
   
 
+<<<<<<< HEAD
 [![medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white&style=plastic)](https://medium.com/@hanoak)This change is from master branch
+=======
+[![medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white&style=plastic)](https://medium.com/@hanoak)This change is from feature-update branch
+>>>>>>> feature-update
